@@ -1,2 +1,2 @@
 # JavaScript Coding
-hello h
+hello hi
